@@ -1,0 +1,7 @@
+Ovo je verzija cuvene igrice AJNC (eins na nemackom)
+
+Ova verzija podrzava samo jednog igraca i krupijea
+
+Sadrzi 5 medjusobno prozetih klasa u datom folderu
+
+Igrica se pokrece iz glavnog programa __main__.py
