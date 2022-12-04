@@ -1,1 +1,3 @@
-This is my first neural network. It is not at least 2 hidden prediction layers conceived, like it is common. Just an attempt of achieving predictions in a mainstream way, without using deep learning libraries. Just one hidden layer. A classic MNIST dataset used for the training, as well as for the testing of the network / model.
+This is my first neural network. It is not at least 2 hidden prediction layers conceived, like it is common.
+Just an attempt of achieving predictions in a mainstream way, without using deep learning libraries.
+Just one hidden layer. A classic MNIST dataset used for the training, as well as for the testing of the network / model.
